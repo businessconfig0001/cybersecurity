@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 Jan 2018 19:16:00 at https://login.telecom.pt/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2fwww.meo.pt%2f_trust&wctx=https%3a%2f%2fwww.meo.pt%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3dhttps%3a%2f%2fwww.meo.pt +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://login.telecom.pt/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2fwww.meo.pt%2f_trust&wctx=https%3a%2f%2fwww.meo.pt%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3dhttps%3a%2f%2fwww.meo.pt -O1 "S:\My Web Sites\meo_portal\meo_portal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:17:11	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://login.telecom.pt/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2fwww.meo.pt%2f_trust&wctx=https%3a%2f%2fwww.meo.pt%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3dhttps%3a%2f%2fwww.meo.pt)
+19:17:11	Error: 	"Not Found" (404) at link https://login.telecom.pt/adfs/ls/POST (from https://login.telecom.pt/adfs/ls/Scripts/WebResourceFix.js?v=20171010)
+19:17:11	Error: 	"Not Found" (404) at link https://login.telecom.pt/adfs/ls/fonts/glyphicons-halflings-regular.svg (from https://login.telecom.pt/adfs/ls/Styles/bootstrap.min.css?v=20171010)
+19:17:11	Error: 	"Not Found" (404) at link https://login.telecom.pt/adfs/ls/fonts/meotext-light.svg (from https://login.telecom.pt/adfs/ls/Styles/base.css?v=20171010)
+19:17:11	Error: 	"Not Found" (404) at link https://login.telecom.pt/adfs/ls/fonts/meotext-regular.svg (from https://login.telecom.pt/adfs/ls/Styles/base.css?v=20171010)
+19:17:11	Error: 	"Not Found" (404) at link https://login.telecom.pt/adfs/ls/fonts/meotext-bold.svg (from https://login.telecom.pt/adfs/ls/Styles/base.css?v=20171010)
+19:17:11	Error: 	"Not Found" (404) at link https://login.telecom.pt/adfs/ls/fonts/altice_regular.svg (from https://login.telecom.pt/adfs/ls/Styles/base.css?v=20171010)
+19:17:11	Error: 	"Not Found" (404) at link https://login.telecom.pt/adfs/ls/images/logo_meo_white_small.png (from https://login.telecom.pt/adfs/ls/Styles/base.css?v=20171010)
+19:17:11	Error: 	"Not Found" (404) at link https://login.telecom.pt/adfs/ls/images/ics-redes-sociais-big.png (from https://login.telecom.pt/adfs/ls/Styles/pages.css?v=20171010)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 11 seconds : 70 links scanned, 60 files written (1586029 bytes overall) [1255927 bytes received at 17689 bytes/sec], 481149 bytes transferred using HTTP compression in 24 files, ratio 24%, 14.0 requests per connection
+(9 errors, 0 warnings, 0 messages)

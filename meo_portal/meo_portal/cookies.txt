@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+login.telecom.pt	TRUE	/	FALSE	1999999999	ISAWPLB{F368ED2D-F1AC-4024-9D19-DC36BD0E4981}	{7519AEC8-0B3D-4E75-9B46-C27070300AB7}
+login.telecom.pt	TRUE	/	FALSE	1999999999	lang	en-US
+
